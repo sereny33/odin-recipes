@@ -1,0 +1,30 @@
+* {
+    background-color: lightblue;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+h1,
+h2,
+h3 {
+    background-color: pink;
+    text-align: center;
+    border-radius: 40px;
+}
+
+a {
+    color: black;
+}
+
+a:hover {
+    background-color: pink;
+}
+
+img {
+    border-radius: 40px;
+    height: auto;
+    width: 680px;
+}
+
